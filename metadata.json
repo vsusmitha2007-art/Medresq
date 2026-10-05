@@ -1,0 +1,11 @@
+{
+  "name": "EmergencyLink - Emergency Patient Information & Hospital Resource System",
+  "description": "Location-aware emergency response system connecting patients, paramedics, doctors, and hospitals with real-time resource availability and secure QR identification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
